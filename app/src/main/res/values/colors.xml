@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="errorScreenBackColor">#E85959</color>
+    <color name="errorScreenTextColor">#FFFFFF</color>
+    <color name="errorRetryButtonBackColor">#4A4A4A</color>
+    <color name="main_temp_font_color">#2A2A2A</color>
+    <color name="city_name_font_color">#556799</color>
+</resources>
